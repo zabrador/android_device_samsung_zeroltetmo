@@ -2,6 +2,10 @@
 #lib_DNSe_EP_ver216c.so
 #lib_DNSe_NRSS_ver226.so
 
+# Bluetooth
+vendor/firmware/bcm4358A3_V0069.0109.hcd
+vendor/firmware/bcm4358A3_V0069.0109_wisol.hcd
+
 # Mobicore
 app/mcRegistry/ffffffff000000000000000000000028.tlbin
 
